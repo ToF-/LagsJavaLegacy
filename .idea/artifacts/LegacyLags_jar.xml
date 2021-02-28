@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="LegacyLags:jar">
+  <artifact type="jar" name="LegacyLags:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/LegacyLags_jar</output-path>
     <root id="archive" name="LegacyLags.jar">
       <element id="module-output" name="LegacyLags" />
